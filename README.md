@@ -1,2 +1,2 @@
 # symbol-spam-network-html
- Run in browser
+ Download the  html, Run in browser
